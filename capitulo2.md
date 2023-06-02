@@ -1,3 +1,5 @@
+# **Capítulo 2: Flujo de trabajo básico**
+
 Crear una rama: Antes de comenzar a trabajar en una nueva función o corrección de errores, se crea una nueva rama utilizando el comando git branch nombre_rama. Por ejemplo, git branch feature_x crea una nueva rama llamada "feature_x".
 
 Cambiar a la rama: Para comenzar a trabajar en la nueva rama, se cambia a ella utilizando el comando git checkout nombre_rama. Por ejemplo, git checkout feature_x cambia a la rama "feature_x".

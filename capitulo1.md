@@ -1,4 +1,6 @@
-Repositorio: Un repositorio en Git es donde se almacenan todos los archivos y el historial de cambios de un proyecto. Puede ser local en tu máquina o remoto en un servidor.
+# **Capítulo 1: Introducción a Git (conceptos y configuraciones)**
+
+ archivos y el historial de cambios de un proyecto. Puede ser local en tu máquina o remoto en un servidor.
 
 Inicializar un repositorio: Para comenzar a rastrear los cambios en un proyecto, se debe inicializar un repositorio Git en el directorio del proyecto utilizando el comando git init.
 
